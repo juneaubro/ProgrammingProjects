@@ -11,11 +11,11 @@ class Solution {
         // int n = 285;
         // int k = 20;
         // System.out.println(solution2(n, k));
-        // int n = 5;
-        // int k = 8;
-        // System.out.println(solution3(n, k));
-        String s = "RLLLRRRLLR";
-        System.out.println(solution1(s));
+        int n = 5;
+        int k = 8;
+        System.out.println(solution3(n, k));
+        // String s = "RLLLRRRLLR";
+        // System.out.println(solution1(s));
     }
 
     public static int solution1(String S) {
