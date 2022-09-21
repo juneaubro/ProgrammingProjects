@@ -1,0 +1,15 @@
+server side
+
+npm init -y
+npm i express mongoose multer dotenv cors
+npm i -D nodemon
+
+change scripts and main in package.json
+
+client side
+
+vue create client
+vue add vuetify
+npm i axios
+
+add proxy too vue config

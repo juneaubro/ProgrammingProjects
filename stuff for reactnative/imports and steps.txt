@@ -1,0 +1,26 @@
+You need node.js
+
+sudo npm i -g expo-cli // install expo for reactnative
+
+install expo client on phones
+
+extensions:
+react native tools
+react-native/react/redux snippet
+prettier
+material icon theme
+
+format on save stuff for prettier
+
+start build app template
+
+expo init <Name of app>
+bank template for basic stuff
+
+npm start // start react native app. READ CONSOLE FOR WEB, IOS, ANDROID APP.
+
+// Use metro bundler if you dont want to use the console to run the app on a device
+
+download simulator xcode for ios. android studio for android
+// for android on mac we need to add platform tools extra steps in bash files or zsh files look in documentations. 
+https://docs.expo.dev/workflow/android-studio-emulator/

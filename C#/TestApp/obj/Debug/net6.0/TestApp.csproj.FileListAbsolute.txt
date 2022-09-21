@@ -1,0 +1,15 @@
+Z:\ProgrammingProjects\C#\TestApp\bin\Debug\net6.0\TestApp.exe
+Z:\ProgrammingProjects\C#\TestApp\bin\Debug\net6.0\TestApp.deps.json
+Z:\ProgrammingProjects\C#\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+Z:\ProgrammingProjects\C#\TestApp\bin\Debug\net6.0\TestApp.dll
+Z:\ProgrammingProjects\C#\TestApp\bin\Debug\net6.0\TestApp.pdb
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.dll
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.pdb
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+Z:\ProgrammingProjects\C#\TestApp\obj\Debug\net6.0\ref\TestApp.dll

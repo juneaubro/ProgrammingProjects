@@ -1,0 +1,15 @@
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+Z:\ProgrammingProjects\C#\LeetCodeTesting\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
